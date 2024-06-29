@@ -1,4 +1,3 @@
-
 import pytest
 import requests
 from datas import BASE_URL, Endpoints, Messages
